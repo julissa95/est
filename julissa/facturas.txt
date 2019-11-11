@@ -1,0 +1,14 @@
+":"hhhe47","precioPorHora":100,"debe":217000}
+{"Factura":"hhhe47","precioPorHora":100,"debe":229600}
+{"Factura":"hhhe47","precioPorHora":100,"debe":232100}
+{"Factura":"hhhe47","precioPorHora":100,"debe":281400}
+{"Factura":"123","precioPorHora":100,"debe":1200}
+{"Factura":"eee","precioPorHora":100,"debe":2300}
+{"Factura":"hhhe47","precioPorHora":100,"debe":314600}
+{"Factura":"ttt567","precioPorHora":100,"debe":1000}
+{"Factura":"poli","precioPorHora":100,"debe":97613300}
+{"Factura":"dvm365","precioPorHora":100,"debe":157163202000}
+{"Factura":"dvm365","precioPorHora":100,"debe":157163222300}
+{"Factura":"dvm365","precioPorHora":100,"debe":157281609000}
+{"Factura":"dvm365","precioPorHora":100,"debe":157341801800}
+{"Factura":"dvm365","precioPorHora":100,"debe":178717700}
